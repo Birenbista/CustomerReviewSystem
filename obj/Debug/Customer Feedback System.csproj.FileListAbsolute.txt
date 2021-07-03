@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Customer Feedback System\bin\Debug\Customer Feedback System.exe.config
+C:\Users\User\source\repos\Customer Feedback System\bin\Debug\Customer Feedback System.exe
+C:\Users\User\source\repos\Customer Feedback System\bin\Debug\Customer Feedback System.pdb
+C:\Users\User\source\repos\Customer Feedback System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Customer Feedback System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer_Feedback_System.Admin.resources
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer_Feedback_System.Criteria.resources
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer_Feedback_System.Feedback.resources
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer_Feedback_System.Graph.resources
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer_Feedback_System.Login.resources
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer_Feedback_System.Properties.Resources.resources
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer_Feedback_System.Report.resources
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer Feedback System.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer Feedback System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer Feedback System.csproj.CopyComplete
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer Feedback System.exe
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer Feedback System.pdb
+C:\Users\User\source\repos\Customer Feedback System\obj\Debug\Customer Feedback System.csprojAssemblyReference.cache
